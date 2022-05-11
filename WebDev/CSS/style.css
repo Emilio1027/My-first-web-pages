@@ -1,0 +1,183 @@
+body{
+  background-color: #082d41;
+
+}
+
+h1{
+    color:#83cd48;
+    margin-top: 20px;
+    margin-left: 40% ;
+
+}
+
+  h4{
+    color:white ; 
+  }
+  p{
+      font-size: 16px;
+      margin-left: 15%;
+      margin-right: 0%;
+      color: white;
+  }
+  .container{
+      width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 50px;
+  }
+  .images{
+      width: 100%;
+      text-align: center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #082d41;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #83cd48;
+  }
+  .navigation{
+    margin-left: 40% ;
+  }
+  
+h2{
+  align-items: center;
+  color: #159be7;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 40% ;
+
+
+ 
+}
+form {
+  color: #83cd48;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 40% ;
+
+
+}
+input[type=button] {
+  width: 5%;
+  background-color: #159be7;
+  color: white;
+  padding: 3px 3px;
+  margin: 4px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=button]:hover {
+     background-color: #082d41;
+}
+
+.homeparagraphL{
+  color: white;
+  margin-top: 50px;
+  margin-left: 25%;
+
+}
+.corpNameContact{
+  color: #83cd48;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 40%;
+  margin-right: 0%;
+
+}
+.corpOfficeContact{
+  color: white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 40%;
+  margin-right: 0%;
+}
+.corpEmailContact{
+  color: white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 40%;
+  margin-right: 0%;  
+}
+
+.corpPhoneContact{
+  color: #83cd48;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 40%;
+  margin-right: 0%;
+}
+.imageLogoAbout{
+
+  margin-left: 35%;
+  margin-right: 0%;
+  margin-top: 25px;
+}
+.corpNameAbout{
+  color: #83cd48;
+  font-size: 20px;
+  margin-top: 60px;
+  margin-left: 39%;
+  margin-right: 0%;
+
+}
+.corpOfficeAbout{
+  color: white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 39%;
+  margin-right: 0%;
+}
+.corpEmailAbout{
+  color: white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 39%;
+  margin-right: 0%;  
+}
+
+.corpPhoneAbout{
+  color: #83cd48;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 39%;
+  margin-right: 0%;
+}
+.corpNameIndex{
+  color: #83cd48;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 36%;
+  margin-right: 0%;
+
+}
+.corpOfficeIndex{
+  color: white;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 36%;
+  margin-right: 0%;
+}
+.serviceparagraph{
+  color: white;
+  margin-top: 50px;
+  margin-left: 25%;
+}
